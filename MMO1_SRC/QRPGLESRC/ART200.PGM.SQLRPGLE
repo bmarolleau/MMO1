@@ -1,5 +1,5 @@
       *%METADATA                                                                          *
-      * %TEXT Work with article                                                           *
+      * %TEXT Work with article1                                                           *
       *%EMETADATA                                                                         *
 
      h dftactgrp(*no) bnddir('SAMPLE')
