@@ -1,0 +1,15 @@
+{
+  "description": "first app with merlin from git",
+  "repository": "git@github.com:bmarolleau/MMO1.git",
+  "extensions": {
+    "arcad": {
+      "code": "MMO1",
+      "libraryPrefix": "MMO",
+      "validated": true,
+      "iasp": ""
+    }
+  },
+  "objlib": "&verlibmmo1",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {filename}"
+}
