@@ -1,6 +1,10 @@
 {
   "description": "first app with merlin from git",
   "repository": "git@github.com:bmarolleau/MMO1.git",
+  "version": "0.0.1",
+   "includePath": [
+        "MMO1_SRC/QPROTOSRC   "
+    ],
   "extensions": {
     "arcad": {
       "code": "MMO1",
@@ -13,3 +17,4 @@
   "buildCommand": "elias compile {branch}",
   "compileCommand": "elias compile {branch} -f {filename}"
 }
+
